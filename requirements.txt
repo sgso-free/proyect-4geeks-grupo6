@@ -1,0 +1,11 @@
+# Base ----------------------------------------
+
+pandas==1.4.2
+numpy>=1.18.5
+matplotlib>=3.2.2
+seaborn
+
+# Machine learning ----------------------------
+sklearn
+xgboost
+imblearn
